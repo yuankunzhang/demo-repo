@@ -1,5 +1,5 @@
 class Dog:
-  def speak('meow')
+  def speak('bark')
   
 if __name__ == '__main__':
   tom = Dog()
