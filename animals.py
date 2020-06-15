@@ -1,8 +1,10 @@
 class Dog:
-  def speak('bark')
+  def speak(self):
+    print('bark')
   
 class Cat:
-  def speak('meow')
+  def speak(self):
+    print('meow')
   
 if __name__ == '__main__':
   jack = Dog()
